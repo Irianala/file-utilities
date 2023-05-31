@@ -1,0 +1,4 @@
+/.idea/
+/bin/
+/target/
+/src/test/resources/data/output/*
